@@ -8,10 +8,6 @@ import java.awt.Cursor;
 import javax.swing.ImageIcon;
 
 
-/**
- *
- * @author FarhanPC
- */
 public class Travelling_Management_Systems extends javax.swing.JFrame {
 
     /**
